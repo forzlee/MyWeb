@@ -14,7 +14,7 @@ function JikanPage() {
         }
         fetchAnimations();
 
-    }, [])
+    }, [])////
 
     return <div>
         <h1 className="text-4xl text-center my-5">รายการจากอนิเมะจาก Jikan API</h1>
